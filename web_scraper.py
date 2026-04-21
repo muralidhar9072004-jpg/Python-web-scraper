@@ -26,4 +26,4 @@ print(df)
 
 df.to_csv("quotes_data.csv", index=False)
 
-print("✅ Exported to quotes_data.csv")
+print("Exported to quotes_data.csv")
