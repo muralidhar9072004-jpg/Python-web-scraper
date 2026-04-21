@@ -1,2 +1,18 @@
-# Python-web-scraper
-Python web scraping project to extract website data, parse HTML content, and export structured results into CSV using Requests, BeautifulSoup, and Pandas.
+# Python Web Scraper 
+
+A Python project that extracts structured website data and stores it in CSV format.
+
+## Features
+- Web page data extraction
+- HTML parsing with BeautifulSoup
+- Structured CSV export
+- Beginner automation workflow
+
+## Tech Stack
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+
+## Sample Output
+Collected quotes and author names from a public demo website and exported results to CSV.
